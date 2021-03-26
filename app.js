@@ -14,7 +14,7 @@ const projects = require("./routes/projects");
 const expenses = require("./routes/expenses");
 const helmet = require("helmet");
 
-
+// Setting up github actions
 const app = express();
 
 // view engine setup
